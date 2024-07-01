@@ -32,9 +32,10 @@ This application will have two components: *crisis-list* and *heroes-list*.
     ng new angular-router-sample
     </docs-code>
 
-    When prompted with `Would you like to add Angular routing?`, select `N`.
 
     When prompted with `Which stylesheet format would you like to use?`, select `CSS`.
+
+    When prompted with `Do you want to enable Server-Side Rendering (SSR) and Static Site Generation (SSG/Prerendering)?`, select `N`.
 
     After a few moments, a new project, `angular-router-sample`, is ready.
 
